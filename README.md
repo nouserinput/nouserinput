@@ -1,13 +1,12 @@
-# nouserinput
+👋 **Hi, I’m @nouserinput this is my personal Github.**
 
-Hi, I'm null. I write a lot of my projects in Python and generally just work on things I am interested in.
+**My socials:** <br />
+[![Add me](https://img.shields.io/badge/Discord-empty.src-purple?style=for-the-badge)](https://discordapp.com/users/820135381559017513) <br />
+[![Website](https://img.shields.io/badge/Website-empty.dev-red?style=for-the-badge)](https://empty.dev/) <br />
+[![Add me](https://img.shields.io/badge/VRChat-empty-white?style=for-the-badge)](https://vrchat.com/home/user/usr_33d68677-9670-4508-9c2b-822bfe5187b9) <br />
 
-## Main Projects
-[valRPC](https://github.com/nouserinput/val-rpc) - A discord RPC program that displays realtime valorant stats.
+**ValRPC:** <br />
+[github.com/nouserinput/val-rpc](https://github.com/nouserinput/val-rpc)
 
 ## Stats
-[![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nouserinput&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nouserinput&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nouserinput&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nouserinput&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
