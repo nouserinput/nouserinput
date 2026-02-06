@@ -1,4 +1,4 @@
-👋 **Hi, I’m @nouserinput this is my personal Github.**
+👋 **Hi, I’m @nouserinput and this is my personal Github.**
 
 **My socials:** <br />
 [![Add me](https://img.shields.io/badge/Discord-empty.src-purple?style=for-the-badge)](https://discordapp.com/users/820135381559017513) <br />
